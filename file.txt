@@ -1,0 +1,10 @@
+1. Creare la lista della spesa.
+2. Vado al supermercato.
+3. Per ogni elemento:
+            Se è disponibile and non l'ho già aquistato, lo compro.
+            : Altrimenti passo al prodotto successivo.
+
+4. Mi dirigo alla cassa.
+5. Passo Coupon in cassa.
+6. Se totale spesa basta la quantità di contanti disponibile, allora pago.
+            : Altrimenti restituisco gli snack extra.
